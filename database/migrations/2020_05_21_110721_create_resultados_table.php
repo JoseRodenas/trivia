@@ -16,6 +16,8 @@ class CreateResultadosTable extends Migration
         Schema::create('resultados', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->integer('user');
+            $table->integer('numeropreguntas');
+            $table->integer('numeroaciertos');
             $table->integer('puntos');
             $table->string('categoria');
             $table->timestamps();

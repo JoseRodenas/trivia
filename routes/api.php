@@ -18,18 +18,21 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::middleware('auth:api')->group(function () {
+/* Route::middleware('auth:api')->group(function () {
 
     Route::apiResource('Preguntas', 'API\PreguntasController');
     Route::apiResource('Resultado', 'API\ResultadoController');
     Route::apiResource('user', 'API\UserController');
 
-});
+}); */
 
-Route::apiResource('Preguntas', 'API\PreguntasController');
+Route::get('Preguntas', 'API\PreguntasController@index');
+Route::get('Users', 'API\UserController@index');
+
+/* Route::apiResource('Preguntas', 'API\PreguntasController');
 Route::apiResource('Resultado', 'API\ResultadoController');
 Route::apiResource('user', 'API\UserController');
-
+ */
 Route::get('/test', function () {
     return response('Test API', 200)->header('Content-Type', 'application/json');
 });

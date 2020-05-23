@@ -15,12 +15,12 @@ class CreatePreguntasTable extends Migration
     {
         Schema::create('preguntas', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('pregunta',200);
-            $table->string('respuesta1',50);
-            $table->string('respuesta2',50);
-            $table->string('respuesta3',50);
-            $table->string('respuesta4',50);
-            $table->string('categoria',20);
+            $table->string('pregunta',500);
+            $table->string('respuesta1',200);
+            $table->string('respuesta2',200);
+            $table->string('respuesta3',200);
+            $table->string('respuesta4',200);
+            $table->string('categoria',200);
             $table->timestamps();
         });
     }
