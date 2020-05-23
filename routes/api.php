@@ -29,6 +29,8 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::get('Preguntas', 'API\PreguntasController@index');
 Route::get('Users', 'API\UserController@index');
 
+Route::post('Users/{id}', 'API\UserController@show');
+
 /* Route::apiResource('Preguntas', 'API\PreguntasController');
 Route::apiResource('Resultado', 'API\ResultadoController');
 Route::apiResource('user', 'API\UserController');
