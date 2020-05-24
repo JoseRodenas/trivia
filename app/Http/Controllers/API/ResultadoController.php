@@ -4,6 +4,8 @@ namespace App\Http\Controllers\API;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use App\Resultado;
+use Illuminate\Support\Facades\DB;
 
 class ResultadoController extends Controller
 {
@@ -14,7 +16,9 @@ class ResultadoController extends Controller
      */
     public function index()
     {
-        //
+        $Resultado = DB::table('resultados')->orderByRaw('puntos DESC')->get();
+        
+        return $Resultado;
     }
 
     /**
@@ -25,7 +29,14 @@ class ResultadoController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $resultado = new Resultado;
+        $resultado->user = $request->get('user');
+        $resultado->numeropreguntas = $request->get('numeropreguntas');
+        $resultado->numeroaciertos = $request->get('numeroaciertos');
+        $resultado->puntos = $request->get('puntos');
+        $resultado->categoria = $request->get('categoria');
+        $resultado->save();
+        echo "Almacenada partida con exito";
     }
 
     /**
