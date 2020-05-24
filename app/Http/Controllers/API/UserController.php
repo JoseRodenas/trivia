@@ -14,8 +14,7 @@ class UserController extends Controller
      */
     public function index()
     {
-        $user = User::all();
-        return $user;
+        //
     }
 
     /**
@@ -37,8 +36,7 @@ class UserController extends Controller
      */
     public function show($id)
     {
-        $user = User::findOrFail($id);
-        return $user;
+        //
     }
 
     /**

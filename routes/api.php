@@ -28,9 +28,6 @@ Route::group(['prefix' => 'auth'], function () {
     });
 });
 Route::get('Preguntas', 'API\PreguntasController@index');
-Route::get('Users', 'API\UserController@index');
-
-Route::post('Users/{id}', 'API\UserController@show');
 
 Route::get('/test', function () {
     return response('Test API', 200)->header('Content-Type', 'application/json');
