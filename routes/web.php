@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/prueba', function () {
     return view('indice');
 });
+Route::get('/prueba2', function () {
+    return view('prueba');
+});
