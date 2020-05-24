@@ -18,23 +18,20 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-/* Route::middleware('auth:api')->group(function () {
-
-    Route::apiResource('Preguntas', 'API\PreguntasController');
-    Route::apiResource('Resultado', 'API\ResultadoController');
-    Route::apiResource('user', 'API\UserController');
-
-}); */
-
+Route::group(['prefix' => 'auth'], function () {
+    Route::post('login', 'AuthController@login');
+    Route::post('signup', 'AuthController@signup');
+  
+    Route::group(['middleware' => 'auth:api'], function() {
+        Route::get('logout', 'AuthController@logout');
+        Route::get('user', 'AuthController@user');
+    });
+});
 Route::get('Preguntas', 'API\PreguntasController@index');
 Route::get('Users', 'API\UserController@index');
 
 Route::post('Users/{id}', 'API\UserController@show');
 
-/* Route::apiResource('Preguntas', 'API\PreguntasController');
-Route::apiResource('Resultado', 'API\ResultadoController');
-Route::apiResource('user', 'API\UserController');
- */
 Route::get('/test', function () {
     return response('Test API', 200)->header('Content-Type', 'application/json');
 });
