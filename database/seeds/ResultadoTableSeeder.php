@@ -11,7 +11,7 @@ class ResultadoTableSeeder extends Seeder
      */
     public function run()
     {
-        $faker = \Faker\Factory::create();
+        /* $faker = \Faker\Factory::create();
 
         if(env('APP_ENV') != 'production') {
             DB::table('resultados')->truncate();
@@ -25,6 +25,6 @@ class ResultadoTableSeeder extends Seeder
                     'categoria' => $faker->sentence($nbWords = 6, $variableNbWords = true),
                 ]);
             }
-        }
+        } */
     }
 }

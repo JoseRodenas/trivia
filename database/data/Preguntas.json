@@ -1,0 +1,961 @@
+[{
+        "pregunta": "¿Cuál es la parte más profunda de la corteza terrestre?",
+        "respuesta1": "La fosa de las Marianas",
+        "respuesta2": "La fosa de Kermadec",
+        "respuesta3": "La fosa de las Kuriles",
+        "respuesta4": "La fosa de Filipinas",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Marruecos?",
+        "respuesta1": "Rabat",
+        "respuesta2": "Casablanca",
+        "respuesta3": "Fez",
+        "respuesta4": "Salé",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿En qué país se encuentra el río Po?",
+        "respuesta1": "Italia",
+        "respuesta2": "Francia",
+        "respuesta3": "Suiza",
+        "respuesta4": "Austria",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál es el país más visitado del mundo?",
+        "respuesta1": "Francia",
+        "respuesta2": "España",
+        "respuesta3": "China",
+        "respuesta4": "Italia",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿En qué país es oficial el quechua es lengua oficial nacional?",
+        "respuesta1": "Perú",
+        "respuesta2": "Argentina",
+        "respuesta3": "México",
+        "respuesta4": "Venezuela",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿En qué país se encuentra la península de Yucatán?",
+        "respuesta1": "México",
+        "respuesta2": "Argentina",
+        "respuesta3": "Honduras",
+        "respuesta4": "Venezuela",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál es el océano que baña las aguas de Sri Lanka?",
+        "respuesta1": "Océano Índico",
+        "respuesta2": "Océano Pacífico",
+        "respuesta3": "Océano Atlántico",
+        "respuesta4": "Océano Ártico",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "respuesta1": "Everest",
+        "respuesta2": "K2",
+        "respuesta3": "Kanchenjunga",
+        "respuesta4": "Lhotse I",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Qué nombre recibe un cowboy argentino?",
+        "respuesta1": "Gaucho",
+        "respuesta2": "llanero",
+        "respuesta3": "vaquero",
+        "respuesta4": "cowboy",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿A qué dos continentes se debe la existencia del vudú?",
+        "respuesta1": "A África y América",
+        "respuesta2": "A África y Asia",
+        "respuesta3": "A América y Asia",
+        "respuesta4": "A Antártida y América",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "El gran desierto de Gobi se ubica en...",
+        "respuesta1": "En Asia",
+        "respuesta2": "En América",
+        "respuesta3": "En África",
+        "respuesta4": "En Europa",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál de estos países no tiene acceso al Mar Mediterráneo?",
+        "respuesta1": "Serbia",
+        "respuesta2": "Eslovenia",
+        "respuesta3": "Chipre",
+        "respuesta4": "Egipto",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "respuesta1": "Nilo",
+        "respuesta2": "Amazonas",
+        "respuesta3": "Río Amarillo",
+        "respuesta4": "Yangtsé",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Qué país es el segundo más grande del mundo en términos de población?",
+        "respuesta1": "India",
+        "respuesta2": "China",
+        "respuesta3": "Indonesia",
+        "respuesta4": "Rusia",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál de estos países es bañado únicamente por un océano?",
+        "respuesta1": "Gran Bretaña",
+        "respuesta2": "Canadá",
+        "respuesta3": "Rusia",
+        "respuesta4": "México",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuántos continentes hay en la Tierra?",
+        "respuesta1": "6",
+        "respuesta2": "7",
+        "respuesta3": "5",
+        "respuesta4": "4",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál es la parte más seca de la Tierra?",
+        "respuesta1": "La Antártida",
+        "respuesta2": "América del Norte",
+        "respuesta3": "América del Sur",
+        "respuesta4": "Asia",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál es el lago más profundo del mundo?",
+        "respuesta1": "Baikal",
+        "respuesta2": "Hurón",
+        "respuesta3": "Victoria",
+        "respuesta4": "Costanza",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuál es la isla más grande del mar Mediterráneo?",
+        "respuesta1": "Sicilia",
+        "respuesta2": "Chipre",
+        "respuesta3": "Cerdeña",
+        "respuesta4": "Mallorca",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Cuántos volcanes siguen activos en el mundo?",
+        "respuesta1": "1500",
+        "respuesta2": "1000",
+        "respuesta3": "10000",
+        "respuesta4": "15000",
+        "categoria": "Geografía"
+    },
+    {
+        "pregunta": "¿Quién fue el autor español de la fábula de “la Hormiga y la Cigarra”?",
+        "respuesta1": "Félix María Samaniego",
+        "respuesta2": "Tomás de Iriarte",
+        "respuesta3": "Juan Eugenio Hartzenbusch",
+        "respuesta4": "Don Juan Manuel",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Quién escribió 'La Ilíada'?",
+        "respuesta1": "Homero",
+        "respuesta2": "Marco Tulio Cicerón",
+        "respuesta3": "Séneca",
+        "respuesta4": "Heródoto",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "Autor de 'El arte de la guerra'",
+        "respuesta1": "Sun Tzu",
+        "respuesta2": "Shī Jīng",
+        "respuesta3": "Dào Dé Jing",
+        "respuesta4": "Confucio",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Quién es el autor de la 'Divina comedia'?",
+        "respuesta1": "Dante Alighieri",
+        "respuesta2": "Petrarca",
+        "respuesta3": "Giovanni Bocaccio",
+        "respuesta4": "Maquiavelo",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "Filosofo griego, autor de 'La República'",
+        "respuesta1": "Platón",
+        "respuesta2": "Sócrates",
+        "respuesta3": "Democrates",
+        "respuesta4": "Aritóteles",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Cuál de estos escritores españoles no tiene el Premio Nobel?",
+        "respuesta1": "Miguel Delibes",
+        "respuesta2": "José Echegaray",
+        "respuesta3": "Vicente Aleixandre",
+        "respuesta4": "Camilo José Cela",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Quién escribió 'Frankenstein'?",
+        "respuesta1": "Mary Shelley",
+        "respuesta2": "Adele Gerhard",
+        "respuesta3": "Jane Austin",
+        "respuesta4": "Rosalie Loveling",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿De que novela es protagonista Edmond Dantes?",
+        "respuesta1": "El Conde de Montecristo",
+        "respuesta2": "Los Tres Mosqueteros",
+        "respuesta3": "Los Miserables",
+        "respuesta4": "La Reina Margot",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Qué filosofo es el autor de 'Aforismos sobre el arte de vivir'?",
+        "respuesta1": "Arthur Schopenhauer",
+        "respuesta2": "Friedrich Nietzsche",
+        "respuesta3": "Immanuel Kant",
+        "respuesta4": "René Descartes",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Sabes quién fue el autor de 'Moby Dick'?",
+        "respuesta1": "Herman Melville",
+        "respuesta2": "Henry David Thoreau",
+        "respuesta3": "Walt Whitman",
+        "respuesta4": "Charles Dickens",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Cuál de estas obras de teatro es obra de Federico García Lorca?",
+        "respuesta1": "La casa de Bernarda Alba",
+        "respuesta2": "Cinco horas con Mario",
+        "respuesta3": "Tres sombreros de copa",
+        "respuesta4": "La venganza de Don Mendo",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Conoces al autor de 'Los hermanos Karamazov'?",
+        "respuesta1": "Fiódor Dostoyevski",
+        "respuesta2": "Aleksandr Solzhenitsyn",
+        "respuesta3": "León Tolstói",
+        "respuesta4": "Máximo Gorki",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "En que siglo nació Miguel de Cervantes",
+        "respuesta1": "Siglo XVI",
+        "respuesta2": "Siglo XVII",
+        "respuesta3": "Siglo XIV",
+        "respuesta4": "Siglo XV",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Cuál de estos NO fue miembro de la llamada 'generación del 98'?",
+        "respuesta1": "José Ortega y Gasset",
+        "respuesta2": "Miguel de Unamuno",
+        "respuesta3": "Antonio Machado",
+        "respuesta4": "Pio Baroja",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Cuál es el libro más vendido de los últimos 50 años?",
+        "respuesta1": "La Biblia",
+        "respuesta2": "El Señor de los Anillos (Saga)",
+        "respuesta3": "Harry Potter (Saga)",
+        "respuesta4": "Citas del Presidente Mao",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Cuál es el libro más vendido de los últimos 50 años?",
+        "respuesta1": "La Biblia",
+        "respuesta2": "El Señor de los Anillos (Saga)",
+        "respuesta3": "Harry Potter (Saga)",
+        "respuesta4": "Citas del Presidente Mao",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿A qué tipo de instrumento pertenece la citara?",
+        "respuesta1": "A los de cuerda",
+        "respuesta2": "A los de viento",
+        "respuesta3": "A los de percusion",
+        "respuesta4": "A los electricos",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿A qué tipo de instrumento pertenece la citara?",
+        "respuesta1": "A los de cuerda",
+        "respuesta2": "A los de viento",
+        "respuesta3": "A los de percusion",
+        "respuesta4": "A los electricos",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿Con qué nombre firmaba Vincent Van Gogh sus pinturas?",
+        "respuesta1": "Vincent",
+        "respuesta2": "Vincent Van Gogh",
+        "respuesta3": "V.V.G",
+        "respuesta4": "Van Gogh",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿En qué ciudad comenzó y terminó Phileas Fogg su viaje alrededor del mundo?",
+        "respuesta1": "Londres",
+        "respuesta2": "Madrid",
+        "respuesta3": "París",
+        "respuesta4": "Berlín",
+        "categoria": "Arte y Literatura"
+    },
+    {
+        "pregunta": "¿En que año descubrió Colón América?",
+        "respuesta1": "1492",
+        "respuesta2": "1496",
+        "respuesta3": "1502",
+        "respuesta4": "1488",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿En que guerra participó Juana de Arco?",
+        "respuesta1": "La guerra de los 100 años",
+        "respuesta2": "Guerras napoleónicas",
+        "respuesta3": "Primera cruzada",
+        "respuesta4": "La guerra de los 30 años",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Cuándo se produjo principalmente el Siglo de Oro?",
+        "respuesta1": "Siglo XVI",
+        "respuesta2": "Siglo XVII",
+        "respuesta3": "Siglo XV",
+        "respuesta4": "Siglo XIV",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Cómo se llamaba el padre de Alejandro Magno?",
+        "respuesta1": "Filipo II de Macedonia",
+        "respuesta2": "Ptolomeo I",
+        "respuesta3": "Leonidas",
+        "respuesta4": "Flipo I de Grecia",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿De qué año es 'la Pepa', la primera Constitución española?",
+        "respuesta1": "1812",
+        "respuesta2": "1806",
+        "respuesta3": "1822",
+        "respuesta4": "1792",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Quién fue el primer emperador romano?",
+        "respuesta1": "Cesar Augusto",
+        "respuesta2": "Julio Cesar",
+        "respuesta3": "Nerón",
+        "respuesta4": "Calígula",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Qué Rey encargó 'Las Meninas'?",
+        "respuesta1": "Felipe IV",
+        "respuesta2": "Felipe III",
+        "respuesta3": "Carlos III",
+        "respuesta4": "Felipe II",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Cómo se llamaba el cañón alemán más famoso de la I Guerra Mundial?",
+        "respuesta1": "Gran Berta",
+        "respuesta2": "Luftwaffe",
+        "respuesta3": "Mackensen M-14",
+        "respuesta4": "Enola Gay",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿En que país nació Adolf Hitler?",
+        "respuesta1": "Austria",
+        "respuesta2": "Suiza",
+        "respuesta3": "Alemania",
+        "respuesta4": "Polonia",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Por qué condenó la Iglesia a Galileo Galilei?",
+        "respuesta1": "Por decir que la tierra giraba alrededor del Sol",
+        "respuesta2": "Por decir que la tierra era redonda",
+        "respuesta3": "Por negar la existencia de Dios",
+        "respuesta4": "Por decir que la tierra era el centro del universo",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Qué faraón era el marido de Nefertiti?",
+        "respuesta1": "Akenaton",
+        "respuesta2": "Ramses II",
+        "respuesta3": "Ramses I",
+        "respuesta4": "Tutankamon",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Cómo se llamó durante más de 50 años San Petersburgo?",
+        "respuesta1": "Lenningrado",
+        "respuesta2": "Petroburgo",
+        "respuesta3": "Trotskigrado",
+        "respuesta4": "Stalingrado",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿En que isla murió Napoleón?",
+        "respuesta1": "Santa Elena",
+        "respuesta2": "Cerdeña",
+        "respuesta3": "Elba",
+        "respuesta4": "Corcega",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Quienes lucharon en la batalla de Maratón?",
+        "respuesta1": "Los griegos y los persas",
+        "respuesta2": "Los romanos y los cartagineses",
+        "respuesta3": "Los griegos y los espartanos",
+        "respuesta4": "Los griegos y los egipcios",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Quién fue el llamado 'Rey Sol' al que se le atribuye la frase 'El Estado soy yo'?",
+        "respuesta1": "Luis XIV de Francia",
+        "respuesta2": "Felipe I de Francia",
+        "respuesta3": "Carlos IX de Francia",
+        "respuesta4": "Luis XII de Francia",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Cuál de estos cuatro hechos históricos es más antiguo?",
+        "respuesta1": "Nacimiento de Confucio",
+        "respuesta2": "Nacimiento de Buda Gautama",
+        "respuesta3": "Nacimiento de Mahoma",
+        "respuesta4": "Nacimiento de Jesucristo",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Cuál de estas no es una las 7 maravillas del mundo antiguo?",
+        "respuesta1": "Partenon",
+        "respuesta2": "Gran Pirámide de Guiza",
+        "respuesta3": "Templo de Artemisa",
+        "respuesta4": "Jardines colgantes de Babilonia",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Cómo se llamaba el primer Presidente de los Estados Unidos?",
+        "respuesta1": "George Washington",
+        "respuesta2": "Abraham Lincoln",
+        "respuesta3": "John Adams",
+        "respuesta4": "Thomas Jefferson",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
+        "respuesta1": "476",
+        "respuesta2": "456",
+        "respuesta3": "501",
+        "respuesta4": "496",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿De qué país se independizó Eslovenia?",
+        "respuesta1": "Yugoslavia",
+        "respuesta2": "Macedonia",
+        "respuesta3": "Unión Soviética",
+        "respuesta4": "Turquía",
+        "categoria": "Historia"
+    },
+    {
+        "pregunta": "¿Quién protagonizó 'Pretty Woman'?",
+        "respuesta1": "Richard Gere y Julia Roberts",
+        "respuesta2": "Richard Gere y Laura San Giacomo",
+        "respuesta3": "Ralph Bellamy y Julia Roberts",
+        "respuesta4": "Jason Alexander y Julia Roberts",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Qué compañía canadiense ha revolucionado el mundo del circo en los últimos años?",
+        "respuesta1": "Cirque du Soleil",
+        "respuesta2": "Cirkus Cirkor",
+        "respuesta3": "Cirque Plume",
+        "respuesta4": "Circus Krone",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿En qué ciudad vivía el Mago de Oz?",
+        "respuesta1": "La Ciudad Esmeralda",
+        "respuesta2": "La Ciudad Diamante",
+        "respuesta3": "La Ciudad Rubí",
+        "respuesta4": "La Ciudad Zafiro",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿A qué edad murió la gran bailarina Carmen Amaya?",
+        "respuesta1": "A los 50 años",
+        "respuesta2": "A los 60 años",
+        "respuesta3": "A los 40 años",
+        "respuesta4": "A los 55 años",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Qué actor fue el Agente 007 que luchó contra el Dr. No?",
+        "respuesta1": "Sean Connery",
+        "respuesta2": "George Lazenby",
+        "respuesta3": "Daniel Craig",
+        "respuesta4": "Pierce Brosnan",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Cuál es el verdadero nombre de Alejandro Sanz?",
+        "respuesta1": "Alejandro Sánchez Pizarro",
+        "respuesta2": "Alejandro Sánchez Gutiérrez",
+        "respuesta3": "Alexander Santiago Seguiz",
+        "respuesta4": "Alejandro Alberto Sanzón",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Quién es la mascota de SEGA?",
+        "respuesta1": "Sonic",
+        "respuesta2": "Mario",
+        "respuesta3": "Pac Man",
+        "respuesta4": "Ryu",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Cómo se llamaba el personaje que interpretaba Al Pacino en 'Scarface'?",
+        "respuesta1": "Tony Montana",
+        "respuesta2": "Sonny Montana",
+        "respuesta3": "Michael Corleone",
+        "respuesta4": "Frank Slade",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Qué actor rechazó el papel de Michael Corleone en la película 'El Padrino', finalmente interpretado por Al Pacino?",
+        "respuesta1": "Jack Nicholson",
+        "respuesta2": "Anthony Hopkins",
+        "respuesta3": "Robert DeNiro",
+        "respuesta4": "Dean Martin",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Cómo se llama el actor protagonista de 'Solo en casa'?",
+        "respuesta1": "Macaulay Culkin",
+        "respuesta2": "Keanu Reeves",
+        "respuesta3": "Johnny Depp",
+        "respuesta4": "Leonardo DiCaprio",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Qué grupo cómico dobló al español a los protagonistas de 'Shrek'?",
+        "respuesta1": "Cruz y Raya",
+        "respuesta2": "Tip y Coll",
+        "respuesta3": "Martes y 13",
+        "respuesta4": "Los Morancos",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Qué actor ha hecho más películas como James Bond?",
+        "respuesta1": "Roger Moore",
+        "respuesta2": "Sean Connery",
+        "respuesta3": "Daniel Craig",
+        "respuesta4": "Pierce Brosnan",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Cómo se llama el robot alcohólico de la serie 'Futurama'?",
+        "respuesta1": "Bender",
+        "respuesta2": "Zoidberg",
+        "respuesta3": "Leela",
+        "respuesta4": "Hubert",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Rowan Atkinson es famoso por el personaje llamado...",
+        "respuesta1": "Mr.Bean",
+        "respuesta2": "Benjamin Button",
+        "respuesta3": "El sombrerero loco",
+        "respuesta4": "Link",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Cómo se llama el personaje de 'Hellraiser' que tiene clavos en la cara ?",
+        "respuesta1": "Pinhead",
+        "respuesta2": "Arbusto",
+        "respuesta3": "No tiene nombre",
+        "respuesta4": "Pinchoman",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿A qué se dedica el personaje led Mosby de  'Como conocí a vuestra madre?",
+        "respuesta1": "Arquitecto",
+        "respuesta2": "Abogado",
+        "respuesta3": "Publicista",
+        "respuesta4": "Periodista",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Qué integrante de The Beatles falleció en 2001?",
+        "respuesta1": "George Harrison",
+        "respuesta2": "John Lennon",
+        "respuesta3": "Paul Mc Cartney",
+        "respuesta4": "Ringo Starr",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Quién se hizo famoso,gracias a su frase 'que hay de nuevo viejo'?",
+        "respuesta1": "Bugs bunny",
+        "respuesta2": "Piolin",
+        "respuesta3": "El Correcaminos",
+        "respuesta4": "El pato Lucas",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Cuál es la nacionalidad de la cantante Shakira?",
+        "respuesta1": "Colombiana",
+        "respuesta2": "Venezolana",
+        "respuesta3": "Ecuatoriana",
+        "respuesta4": "Peruana",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Dónde nació John Lennon?",
+        "respuesta1": "Liverpool",
+        "respuesta2": "Dublin",
+        "respuesta3": "Londres",
+        "respuesta4": "Hamburgo",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "pregunta": "¿Qué estudia la icitología?",
+        "respuesta1": "Los peces",
+        "respuesta2": "Las erupciones cutáneas",
+        "respuesta3": "Las rocas",
+        "respuesta4": "Los insectos",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Qué es un equino?",
+        "respuesta1": "Un caballo",
+        "respuesta2": "Una vaca",
+        "respuesta3": "Un antílope",
+        "respuesta4": "Una oveja",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Con qué otro nombre se conoce el ciclo del agua?",
+        "respuesta1": "Ciclo hidrológico",
+        "respuesta2": "Ciclo hidropónico",
+        "respuesta3": "Ciclo natural",
+        "respuesta4": "Ciclo acuoso",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿En qué parte del cuerpo tienen rayas el okapi?",
+        "respuesta1": "Las patas",
+        "respuesta2": "La cabeza",
+        "respuesta3": "El torso",
+        "respuesta4": "No tiene rayas",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuántas cavidades estomacales tiene una vaca?",
+        "respuesta1": "Cuatro",
+        "respuesta2": "Una",
+        "respuesta3": "Dos",
+        "respuesta4": "Tres",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Donde están los meniscos?",
+        "respuesta1": "En las rodillas",
+        "respuesta2": "En los codos",
+        "respuesta3": "En la punta del pie",
+        "respuesta4": "En el peroné",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Qué tipo de mamífero es un conejo?",
+        "respuesta1": "Lagomorfo",
+        "respuesta2": "Marsupial",
+        "respuesta3": "Roedor",
+        "respuesta4": "Equino",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cómo se llama a la sensibilidad dolorosa de los sonidos?",
+        "respuesta1": "Hiperacusia",
+        "respuesta2": "Hipocusia",
+        "respuesta3": "Micropsia",
+        "respuesta4": "Hipoalgesia",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cómo se llama el nivel más alto de la marea?",
+        "respuesta1": "Pleamar",
+        "respuesta2": "Bajamar",
+        "respuesta3": "Repunte",
+        "respuesta4": "Estacionario",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuál es la ciencia que estudia la aplicación de la informática y las comunicaciones al hogar?",
+        "respuesta1": "Domótica",
+        "respuesta2": "Robótica",
+        "respuesta3": "Casática",
+        "respuesta4": "Autología",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Qué sonido hace un elefante?",
+        "respuesta1": "Baritan",
+        "respuesta2": "Brugen",
+        "respuesta3": "Gruñen",
+        "respuesta4": "Gritan",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Qué compuesto químico es el componente activo de los pimientos picantes?",
+        "respuesta1": "Capsaicina",
+        "respuesta2": "Celobiosa",
+        "respuesta3": "Galactosa",
+        "respuesta4": "Glucosa",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre común del ácido ascórbico?",
+        "respuesta1": "Vitamina C",
+        "respuesta2": "Ácido cítrico",
+        "respuesta3": "Vitamina B6",
+        "respuesta4": "Vitamina B12",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuál es el mineral más duro del planeta?",
+        "respuesta1": "Diamante",
+        "respuesta2": "Adamantio",
+        "respuesta3": "Cuarzo",
+        "respuesta4": "Mármol",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes nombres de compuestos representa al TNT?",
+        "respuesta1": "Trinitrotolueno",
+        "respuesta2": "Trinitrobenceno",
+        "respuesta3": "Trinitrofenol",
+        "respuesta4": "Trinitroglicerina",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Para que sirve la prueba del carbono 14?",
+        "respuesta1": "Deducir la edad de un material",
+        "respuesta2": "Calcular los quilates del oro",
+        "respuesta3": "Calcular los electrones de un átomo",
+        "respuesta4": "Galvanizar un metal",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Qué significa ARN?",
+        "respuesta1": "Ácido Ribonucleico",
+        "respuesta2": "Ácido Desoxirribonucleico",
+        "respuesta3": "Ácido Rico en Nucleo",
+        "respuesta4": "Antena Rosa y Numerada",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuántos centímetros cúbicos tiene un litro?",
+        "respuesta1": "1000",
+        "respuesta2": "100",
+        "respuesta3": "10",
+        "respuesta4": "10000",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuál es el animal que tiene la presión más alta?",
+        "respuesta1": "Jirafa",
+        "respuesta2": "Elefante",
+        "respuesta3": "Serpiente",
+        "respuesta4": "Conejo",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuál es el único nervio que no pasa por el tálamo?",
+        "respuesta1": "Nervio Olfativo",
+        "respuesta2": "Nervio Óptico",
+        "respuesta3": "Nervio Vago",
+        "respuesta4": "Nervio Ciático",
+        "categoria": "Ciencias y Naturaleza"
+    },
+    {
+        "pregunta": "¿Cuántas puntas de cada color hay en un tablero de backgammon?",
+        "respuesta1": "Doce",
+        "respuesta2": "Ocho",
+        "respuesta3": "Catorce",
+        "respuesta4": "Dieciséis",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿En qué país se inventó el voleibol?",
+        "respuesta1": "Estados Unidos",
+        "respuesta2": "Rusia",
+        "respuesta3": "Francia",
+        "respuesta4": "Gran Bretaña",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Quién inventó el arte marcial llamado Jeet Kune Do?",
+        "respuesta1": "Bruce Lee",
+        "respuesta2": "David Carradine",
+        "respuesta3": "Kato Mimoko",
+        "respuesta4": "Ninguna es correcta",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Cuánto dura un partido de fútbol?",
+        "respuesta1": "90 minutos",
+        "respuesta2": "45 minutos",
+        "respuesta3": "75 minutos",
+        "respuesta4": "80 minutos",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿En cuál de estos deportes no hay árbitro?",
+        "respuesta1": "Ultimate",
+        "respuesta2": "Football",
+        "respuesta3": "Basketball",
+        "respuesta4": "Volleyball",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Dónde se inventó el tenis de mesa?",
+        "respuesta1": "Inglaterra",
+        "respuesta2": "Japón",
+        "respuesta3": "Korea del Sur",
+        "respuesta4": "China",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Quién quedó número 1 del mundo de tenis en 2008?",
+        "respuesta1": "Rafael Nadal",
+        "respuesta2": "Roger Federer",
+        "respuesta3": "Novak Djokovic",
+        "respuesta4": "Carlos Moyá",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Cuánto dura un partido de balonmano?",
+        "respuesta1": "60 minutos",
+        "respuesta2": "30 minutos",
+        "respuesta3": "45 minutos",
+        "respuesta4": "90 minutos",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Dónde apoyan los jinetes sus pies?",
+        "respuesta1": "Estribos",
+        "respuesta2": "Baste",
+        "respuesta3": "Riendas",
+        "respuesta4": "Montura",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Cuántos cuadros tiene un tablero de ajedrez?",
+        "respuesta1": "64",
+        "respuesta2": "54",
+        "respuesta3": "81",
+        "respuesta4": "36",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿A qué edad ganó su primer mundial de Fórmula 1 el automovilista español Fernando Alonso?",
+        "respuesta1": "21",
+        "respuesta2": "38",
+        "respuesta3": "22",
+        "respuesta4": "20",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Dónde nació el Rugby?",
+        "respuesta1": "Reino Unido",
+        "respuesta2": "Australia",
+        "respuesta3": "Canadá",
+        "respuesta4": "Alemania",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Cuántos títulos mundiales posee el motociclista Valentino Rossi?",
+        "respuesta1": "9",
+        "respuesta2": "2",
+        "respuesta3": "5",
+        "respuesta4": "7",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Cuál es la última prueba de decatlón?",
+        "respuesta1": "1500 metros",
+        "respuesta2": "Natación",
+        "respuesta3": "Ciclismo",
+        "respuesta4": "Maratón",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Cuántos anillos ganó Michael Jordan durante su carrera profesional?",
+        "respuesta1": "6",
+        "respuesta2": "2",
+        "respuesta3": "5",
+        "respuesta4": "3",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Qué revista concedía el Balón de Oro?",
+        "respuesta1": "France Football",
+        "respuesta2": "Marca",
+        "respuesta3": "Guerin Sportivo",
+        "respuesta4": "AS",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Quién tiene el récord mundial de atletismo en 100m lisos en 9,58 segundos?",
+        "respuesta1": "Usain Bolt",
+        "respuesta2": "Carl Lewis",
+        "respuesta3": "Tyson Gay",
+        "respuesta4": "No es el récord correcto",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿En qué año se fundó el Real Madrid?",
+        "respuesta1": "1902",
+        "respuesta2": "1900",
+        "respuesta3": "1892",
+        "respuesta4": "1978",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿Qué marca de raqueta usa Roger Federer?",
+        "respuesta1": "Wilson",
+        "respuesta2": "Babolat",
+        "respuesta3": "Artengo",
+        "respuesta4": "Head",
+        "categoria": "Deportes y Pasatiempos"
+    },
+    {
+        "pregunta": "¿En qué deporte puedes hacer una 'tacada'?",
+        "respuesta1": "Billar",
+        "respuesta2": "Ajedrez",
+        "respuesta3": "Bolos",
+        "respuesta4": "Dardos",
+        "categoria": "Deportes y Pasatiempos"
+    }
+]

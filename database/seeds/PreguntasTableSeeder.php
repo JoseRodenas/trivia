@@ -11,22 +11,19 @@ class PreguntasTableSeeder extends Seeder
      */
     public function run()
     {
-        $faker = \Faker\Factory::create();
-
-        if(env('APP_ENV') != 'production') {
-            DB::table('preguntas')->truncate();
-            
-            for ($i = 0; $i < 20; $i++) {
-                Preguntas::create([
-                    'pregunta' => $faker->sentence($nbWords = 6, $variableNbWords = true),
-                    'respuesta1' => $faker->sentence($nbWords = 6, $variableNbWords = true),
-                    'respuesta2' => $faker->sentence($nbWords = 6, $variableNbWords = true),
-                    'respuesta3' => $faker->sentence($nbWords = 6, $variableNbWords = true),
-                    'respuesta4' => $faker->sentence($nbWords = 6, $variableNbWords = true),
-                    'categoria' => $faker->sentence($nbWords = 6, $variableNbWords = true),
-                ]);
-            }
+        DB::table('preguntas')->truncate();
+        $json = File::get("database/data/Preguntas.json");
+        $datos = json_decode($json);
+        foreach ($datos as $objeto) {
+            Preguntas::create(array(
+                'pregunta' => $objeto->pregunta,
+                'respuesta1' => $objeto->respuesta1,
+                'respuesta2' => $objeto->respuesta2,
+                'respuesta3' => $objeto->respuesta3,
+                'respuesta4' => $objeto->respuesta4,
+                'categoria' => $objeto->categoria,
+            ));
         }
-        
+     
     }
 }
