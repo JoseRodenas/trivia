@@ -30,7 +30,4 @@ Route::group(['prefix' => 'auth'], function () {
 Route::get('Preguntas', 'API\PreguntasController@index');
 Route::get('Resultado', 'API\ResultadoController@index');
 Route::post('Resultado', 'API\ResultadoController@store');
-
-/* Route::get('/test', function () {
-    return response('Test API', 200)->header('Content-Type', 'application/json');
-}); */
+Route::post('DatosUsuario', 'API\ResultadoController@show');

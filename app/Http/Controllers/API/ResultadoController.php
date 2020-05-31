@@ -45,9 +45,13 @@ class ResultadoController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show(Request $request)
     {
-        //
+        $resultado = new Resultado;
+        $usuario = $request->get('user');
+        $Resultado = DB::table('resultados')->where('user',$usuario)->get();
+        
+        return $Resultado;
     }
 
     /**
